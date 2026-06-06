@@ -9,7 +9,7 @@ i made this by myself, feel free to use it, if your gonna edit it, just copy the
 <img width="720" height="1570" alt="Screenshot_2026-06-06-22-59-54-39_b783bf344239542886fee7b48fa4b892" src="https://github.com/user-attachments/assets/7d9284d9-718b-4d9b-b142-e43c297acc23" />
 
 ### figma link 🔗
-https://figma.com
+https://www.figma.com/design/rhIAGhEKhJZQPFZZ7g0Mcl/Untitled?node-id=0-1&p=f&t=xYlrE15qreeXj3NT-0
 
 very simple, if you wanna make your own color scheme, do it! free to personalize
 
