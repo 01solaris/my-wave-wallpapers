@@ -14,3 +14,5 @@ https://www.figma.com/design/rhIAGhEKhJZQPFZZ7g0Mcl/Untitled?node-id=0-1&p=f&t=x
 very simple, if you wanna make your own color scheme, do it! free to personalize
 
 by droptech
+
+ts is my FIRST time doing GitHub repos, i had to use AI to help me out of this shi bro 😭
