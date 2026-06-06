@@ -1,6 +1,6 @@
 # wave wallpapers 🌊
 
-i made this by myself, feel free to use it, if your gonna edit it, just copy the frame of the wallpaper on Figma, and paste it to your project. ✨
+i made this by myself, feel free to use it, if your gonna edit it, just copy the frame of the wallpaper on Figma, and paste it to your project. :)
 
 ## computer version
 <img width="1914" height="1069" alt="image" src="https://github.com/user-attachments/assets/67b8d0c3-e08b-418c-a504-54d5edf92e59" />
